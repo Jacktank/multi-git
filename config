@@ -1,0 +1,11 @@
+#gitlab
+Host gitlab
+     HostName zhwang@g-wearables.com
+	 IdentityFile ~/.ssh/gitlab_id_rsa
+
+
+#github
+Host github
+     Hostname wz1991919123@163.com
+	 IdentityFile ~/.ssh/id_rsa
+
